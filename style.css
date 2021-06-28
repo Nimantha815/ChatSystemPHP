@@ -1,0 +1,21 @@
+* body {
+    background-color: green;
+}
+#main{
+    height: 450px;
+    background-color: white;
+    margin-top: 100px;
+    border-radius: 20px;
+    
+}
+#info{
+    margin-left: 20px;
+    padding-top: 2px;
+
+}
+input[type=text]{
+    width: 260px;
+    box-sizing: border-box;
+    border: 2px solid green;
+    border-radius: 4px;
+}
